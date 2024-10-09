@@ -2,10 +2,11 @@
 <li>This is a simple DApp project developed with Solidity and Foundry Framework.</li>
 <li>This is an education project only, not real ether or private keys are used.</li>
 <li>This project can be deployed both to an in-memory local blockchain like Anvil or Sepolia Testnet.</li>
+<li>If you want to use Sepolia Testnet or any other, you have to make an account and use your api keys.</li>
 
 <p></p>
 
-<p>For further info, please read the whole file, so you can interact with the project effeciently.</p>
+<p>For further info, please read the whole file, so you can interact with the project efficiently.</p>
 
 <p>The idea for the project is taken from <a href="https://updraft.cyfrin.io/">Cyfrin Updraft</a></p>
 
