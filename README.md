@@ -37,6 +37,11 @@ https://book.getfoundry.sh/
 
 ## Usage
 
+### Clone
+```shell
+$ git clone --recurse-submodules https://github.com/GeorgiKostadinovPro/Foundry_Fund_Me
+```
+
 ### Build
 
 ```shell
