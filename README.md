@@ -4,6 +4,7 @@
 <li>This project can be deployed both to an in-memory local blockchain like Anvil or Sepolia Testnet.</li>
 <li>If you want to use Sepolia Testnet or any other, you have to make an account and use your api keys.</li>
 <li>To test with Anvil, first start it locally and then add it as a network on your Metamask account from the Settings tab.</li>
+<li>You may also need to import an account into Metamask - just copy one fake account and import it.</li>
 
 <p></p>
 
@@ -40,7 +41,7 @@ https://book.getfoundry.sh/
 
 ### Clone
 ```shell
-$ git clone --recurse-submodules https://github.com/GeorgiKostadinovPro/Foundry_Fund_Me
+$ git clone https://github.com/GeorgiKostadinovPro/Foundry_Fund_Me
 ```
 ### Install Dependencies
 ```shell
