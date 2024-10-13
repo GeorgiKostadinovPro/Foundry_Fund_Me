@@ -41,6 +41,10 @@ https://book.getfoundry.sh/
 ```shell
 $ git clone --recurse-submodules https://github.com/GeorgiKostadinovPro/Foundry_Fund_Me
 ```
+### Install Dependencies
+```shell
+$ forge install cyfrin/foundry-devops@0.2.2 --no-commit && forge install smartcontractkit/chainlink-brownie-contracts@1.1.1 --no-commit && forge install foundry-rs/forge-std@v1.8.2 --no-commit
+```
 
 ### Build
 
